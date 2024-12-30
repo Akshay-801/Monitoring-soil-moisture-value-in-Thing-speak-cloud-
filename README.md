@@ -1,4 +1,7 @@
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
+### NAME : AKSHAY M
+### REG.NO : 24900489
+
+# Experiment 4 - Monitoring soil moisture value in Thing speak cloud
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
