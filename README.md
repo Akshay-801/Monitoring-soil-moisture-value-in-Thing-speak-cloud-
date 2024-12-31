@@ -1,7 +1,7 @@
 ### NAME : AKSHAY M
 ### REG.NO : 24900489
 
-# Experiment 4 - Monitoring soil moisture value in Thing speak cloud
+# Experiment 5 - Monitoring soil moisture value in Thing speak cloud
 
 # AIM:
 To monitor the soil moisture value in the Thing speak cloud using soil moisture sensor and ESP32 controller.
